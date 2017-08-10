@@ -5,3 +5,6 @@ Git tracks  changes of files
 creating a new branch is quick & simple
 
 test new
+
+git stash
+
