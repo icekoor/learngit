@@ -9,3 +9,6 @@ test new
 git stash
 
 test severl workers work together
+
+GUI TEST
+
